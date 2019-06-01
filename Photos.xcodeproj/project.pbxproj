@@ -142,7 +142,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 1000;
-				ORGANIZATIONNAME = "CosmicMind, Inc.";
+				ORGANIZATIONNAME = "IsaacRaval";
 				TargetAttributes = {
 					961409C11E43D75B00E7BA99 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -374,7 +374,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "$(SRCROOT)/Photos/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.cosmicmind.Photos;
+				PRODUCT_BUNDLE_IDENTIFIER = com.IsaacRaval.PhotoGallery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
@@ -389,7 +389,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "$(SRCROOT)/Photos/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.cosmicmind.Photos;
+				PRODUCT_BUNDLE_IDENTIFIER = com.IsaacRaval.PhotoGallery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 4.0;
